@@ -35,4 +35,3 @@ If you use InstructIR in your research, please cite the following paper:
   year={2024},
   journal={arXiv preprint},
 }
-I hope this helps!
