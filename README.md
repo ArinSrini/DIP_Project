@@ -12,6 +12,12 @@ In this project, we introduce an innovative approach to image restoration called
   
 - `custom_images.ipynb`: Here, we provide a tutorial on using InstructIR with custom images. You can follow along to apply the model to your own images and observe the restoration results.
 
+## Final Result Contents
+
+- `/Users/arinsrini/Developer/VIT/DIP/InstructIR/images/results`: This folder contains all the results after various prompts based on images present in the dataset.
+  
+- `/Users/arinsrini/Developer/VIT/DIP/InstructIR/images/results/Custom Images`: This folder contains all the results of custom images taken by ourselves after various prompts along with their plits.
+
 ## Project Details
 
 ### High-Quality Image Restoration Following Human Instructions
