@@ -1,4 +1,4 @@
-##High-Quality Image Restoration Following Human Instructions
+High-Quality Image Restoration Following Human Instructions
 
 This project presents InstructIR, a novel approach to image restoration that uses human-written instructions to guide the restoration process. InstructIR can recover high-quality images from their degraded counterparts, considering multiple degradation types such as denoising, deraining, deblurring, dehazing, and (low-light) image enhancement.
 
