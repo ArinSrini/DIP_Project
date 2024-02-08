@@ -61,5 +61,5 @@ If you use InstructIR in your research, please cite the following paper:
 }`
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2401.16468)
-[![Paper page](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm.svg)](https://huggingface.co/papers/2401.16468)
+[![Paper page](https://paperswithcode.com/paper/high-quality-image-restoration-following)
 
