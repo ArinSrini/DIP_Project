@@ -61,5 +61,4 @@ If you use InstructIR in your research, please cite the following paper:
 }`
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2401.16468)
-[![Paper page](https://paperswithcode.com/paper/high-quality-image-restoration-following)
-
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://paperswithcode.com/paper/high-quality-image-restoration-following)
